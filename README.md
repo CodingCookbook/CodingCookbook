@@ -4,15 +4,26 @@
 
 - 👯 编程Cookbook，我们的初衷和这个名字一样，像传统食谱给出具体的烹饪步骤和食材用量一样，精准的打造编程食谱。
 - 🔭 这里专注于分享编程知识，包括但不限于编程语言知识，数据库，中间件等，如果你正在准备面试，那么恭喜你，来对了！
-- 🌱 Cookbook 正在完善，目前已经更新完的Cookbook如下：
-  - ⚡[MySQL Cookbook](https://github.com/CodingCookbook/MySQL)
-  - ⚡[Redis Cookbook](https://github.com/CodingCookbook/Redis)
-  - ⚡[Go Cookbook](https://github.com/CodingCookbook/Go)
+- 🌱 目前已经更新完的Cookbook如下，点击下方图片，进入你的Cookbook之旅：
+<div align="center">
+  <a href="https://github.com/CodingCookbook/MySQL">
+    <img src="https://github.com/CodingCookbook/CodingCookbook/blob/main/File/MySQL.png" width="250">
+  </a>
+  <a href="https://github.com/CodingCookbook/Redis">
+    <img src="https://github.com/CodingCookbook/CodingCookbook/blob/main/File/Redis.png" width="250">
+  </a>
+  <a href="https://github.com/CodingCookbook/Go">
+    <img src="https://github.com/CodingCookbook/CodingCookbook/blob/main/File/Go.png" width="250">
+  </a>
+</div>
 
 
+## 本人介绍
+本人本科毕业于一所211高校，之后进入到某互联网大厂担任研发工程师，两年后，赴英国利兹大学攻读硕士研究生学位。
 
-> 也欢迎各位关注我们的公众号，获取第一手资料。
-> ![](https://github.com/CodingCookbook/Go/blob/main/File/gzh.png)
+## 推广
+欢迎各位关注我们的公众号，获取第一手的资料。
+![](https://github.com/CodingCookbook/Go/blob/main/File/gzh.png)
 
 
 <!--
