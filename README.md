@@ -7,13 +7,13 @@
 - 🌱 目前更新中的Cookbook如下，点击下方图片，进入你的Cookbook之旅：
 <div align="center">
   <a href="https://github.com/CodingCookbook/MySQL">
-    <img src="https://github.com/CodingCookbook/CodingCookbook/blob/main/File/MySQL.png" width="300">
+    <img src="https://github.com/CodingCookbook/CodingCookbook/blob/main/File/MySQL.png" width="250">
   </a>
   <a href="https://github.com/CodingCookbook/Redis">
-    <img src="https://github.com/CodingCookbook/CodingCookbook/blob/main/File/Redis.png" width="300">
+    <img src="https://github.com/CodingCookbook/CodingCookbook/blob/main/File/Redis.png" width="250">
   </a>
   <a href="https://github.com/CodingCookbook/Go">
-    <img src="https://github.com/CodingCookbook/CodingCookbook/blob/main/File/Go.png" width="300">
+    <img src="https://github.com/CodingCookbook/CodingCookbook/blob/main/File/Go.png" width="250">
   </a>
 </div>
 
