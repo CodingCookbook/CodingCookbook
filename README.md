@@ -4,7 +4,7 @@
 
 - 👯 编程Cookbook，我们的初衷和这个名字一样，像传统食谱给出具体的烹饪步骤和食材用量一样，精准的打造编程食谱。
 - 🔭 这里专注于分享编程知识，包括但不限于编程语言知识，数据库，中间件等，如果你正在准备面试，那么恭喜你，来对了！
-- 🌱 目前已经更新完的Cookbook如下，点击下方图片，进入你的Cookbook之旅：
+- 🌱 目前已经更新中的Cookbook如下，点击下方图片，进入你的Cookbook之旅：
 <div align="center">
   <a href="https://github.com/CodingCookbook/MySQL">
     <img src="https://github.com/CodingCookbook/CodingCookbook/blob/main/File/MySQL.png" width="250">
