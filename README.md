@@ -25,6 +25,13 @@
   </a>
 </div>
 
+<div align="center">
+  <!-- 第三行 -->
+  <a href="https://github.com/CodingCookbook/DesignPattern">
+    <img src="https://github.com/CodingCookbook/CodingCookbook/blob/main/File/DesignPattern.png" width="350">
+
+</div>
+
 
 ## 本人介绍
 本科毕业于一所211高校，之后进入到某互联网大厂担任研发工程师，两年后，赴英国利兹大学攻读硕士研究生学位。
