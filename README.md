@@ -8,20 +8,20 @@
 <div align="center">
   <!-- 第一行 -->
   <a href="https://github.com/CodingCookbook/MySQL">
-    <img src="https://github.com/CodingCookbook/CodingCookbook/blob/main/File/MySQL.png" width="450">
+    <img src="https://github.com/CodingCookbook/CodingCookbook/blob/main/File/MySQL.png" width="350">
   </a>
   <a href="https://github.com/CodingCookbook/Redis">
-    <img src="https://github.com/CodingCookbook/CodingCookbook/blob/main/File/Redis.png" width="450">
+    <img src="https://github.com/CodingCookbook/CodingCookbook/blob/main/File/Redis.png" width="350">
   </a>
 </div>
 
 <div align="center">
   <!-- 第二行 -->
   <a href="https://github.com/CodingCookbook/Go">
-    <img src="https://github.com/CodingCookbook/CodingCookbook/blob/main/File/Go.png" width="450">
+    <img src="https://github.com/CodingCookbook/CodingCookbook/blob/main/File/Go.png" width="350">
   </a>
   <a href="https://github.com/CodingCookbook/MQ">
-    <img src="https://github.com/CodingCookbook/CodingCookbook/blob/main/File/MQ.png" width="450">
+    <img src="https://github.com/CodingCookbook/CodingCookbook/blob/main/File/MQ.png" width="350">
   </a>
 </div>
 
