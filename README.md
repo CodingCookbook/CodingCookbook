@@ -38,7 +38,7 @@
 
 ## 推广
 欢迎各位关注我们的公众号，获取第一手的资料。
-![](https://github.com/CodingCookbook/Go/blob/main/File/gzh.png)
+![](https://github.com/CodingCookbook/CodingCookbook/blob/main/File/gzh.png)
 
 
 <!--
