@@ -8,37 +8,37 @@
 <div align="center">
   <!-- 第一行 -->
   <a href="https://github.com/CodingCookbook/MySQL">
-    <img src="https://github.com/CodingCookbook/CodingCookbook/main/File/MySQL.png" width="350">
+    <img src="https://github.com/CodingCookbook/CodingCookbook/blob/main/File/MySQL.png" width="350">
   </a>
   <a href="https://github.com/CodingCookbook/Redis">
-    <img src="https://github.com/CodingCookbook/CodingCookbook/main/File/Redis.png" width="350">
+    <img src="https://github.com/CodingCookbook/CodingCookbook/blob/main/File/Redis.png" width="350">
   </a>
 </div>
 
 <div align="center">
   <!-- 第二行 -->
   <a href="https://github.com/CodingCookbook/Go">
-    <img src="https://github.com/CodingCookbook/CodingCookbook/main/File/Go.png" width="350">
+    <img src="https://github.com/CodingCookbook/CodingCookbook/blob/main/File/Go.png" width="350">
   </a>
   <a href="https://github.com/CodingCookbook/MQ">
-    <img src="https://github.com/CodingCookbook/CodingCookbook/main/File/MQ.png" width="350">
+    <img src="https://github.com/CodingCookbook/CodingCookbook/blob/main/File/MQ.png" width="350">
   </a>
 </div>
 
 <div align="center">
   <!-- 第三行 -->
   <a href="https://github.com/CodingCookbook/DesignPattern">
-    <img src="https://github.com/CodingCookbook/CodingCookbook/main/File/DesignPattern.png" width="350">
+    <img src="https://github.com/CodingCookbook/CodingCookbook/blob/main/File/DesignPattern.png" width="350">
   </a>
   <a href="https://github.com/CodingCookbook/RPC">
-    <img src="https://github.com/CodingCookbook/CodingCookbook/main/File/RPC.png" width="350">
+    <img src="https://github.com/CodingCookbook/CodingCookbook/blob/main/File/RPC.png" width="350">
   </a>
 </div>
 
 <div align="center">
   <!-- 第四行 -->
   <a href="https://github.com/CodingCookbook/ComputerNetwork">
-    <img src="https://github.com/CodingCookbook/CodingCookbook/main/File/ComputerNetwork.png" width="350">
+    <img src="https://github.com/CodingCookbook/CodingCookbook/blob/main/File/ComputerNetwork.png" width="350">
   </a>
 
 </div>
@@ -49,7 +49,7 @@
 
 ## 推广
 欢迎各位关注我们的公众号，获取第一手的资料。
-![](https://github.com/CodingCookbook/CodingCookbook/main/File/gzh.png)
+![](https://github.com/CodingCookbook/CodingCookbook/blob/main/File/gzh.png)
 
 
 <!--
