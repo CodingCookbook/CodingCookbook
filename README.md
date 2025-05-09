@@ -1,6 +1,6 @@
 ## Hi 👋，这里是「编程Cookbook」
 
-欢迎各位朋友来到CodingCookbook，我是**李歘歘**。
+欢迎各位朋友来到CodingCookbook，我是**李歘歘**，刷题网址：[编程Cookbook](https://lichuachua.cn/author/coding-cookbook/)。
 
 - 👯 编程Cookbook，我们的初衷和这个名字一样，像传统食谱给出具体的烹饪步骤和食材用量一样，精准的打造“编程食谱”。
 - 🔭 这里专注于分享编程知识，包括但不限于编程语言知识，数据库，中间件等，如果你正在准备面试，需要这方面的准备，那么恭喜你，来对了！
