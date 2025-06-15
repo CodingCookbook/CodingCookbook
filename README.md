@@ -7,37 +7,37 @@
 - 🌱 目前更新中的Cookbook如下，点击下方图片👇，进入你的Cookbook之旅：
 <div align="center">
   <!-- 第一行 -->
-  <a href="https://github.com/CodingCookbook/MySQL">
+  <a href="https://lichuachua.cn/tag/mysql/">
     <img src="https://github.com/CodingCookbook/CodingCookbook/blob/main/File/MySQL.png" width="350">
   </a>
-  <a href="https://github.com/CodingCookbook/Redis">
+  <a href="https://lichuachua.cn/tag/redis/">
     <img src="https://github.com/CodingCookbook/CodingCookbook/blob/main/File/Redis.png" width="350">
   </a>
 </div>
 
 <div align="center">
   <!-- 第二行 -->
-  <a href="https://github.com/CodingCookbook/Go">
+  <a href="https://lichuachua.cn/tag/golang/">
     <img src="https://github.com/CodingCookbook/CodingCookbook/blob/main/File/Go.png" width="350">
   </a>
-  <a href="https://github.com/CodingCookbook/MQ">
+  <a href="https://lichuachua.cn/tag/mq/">
     <img src="https://github.com/CodingCookbook/CodingCookbook/blob/main/File/MQ.png" width="350">
   </a>
 </div>
 
 <div align="center">
   <!-- 第三行 -->
-  <a href="https://github.com/CodingCookbook/DesignPattern">
+  <a href="https://lichuachua.cn/tag/design-pattern">
     <img src="https://github.com/CodingCookbook/CodingCookbook/blob/main/File/DesignPattern.png" width="350">
   </a>
-  <a href="https://github.com/CodingCookbook/RPC">
+  <a href="https://lichuachua.cn/tag/RPC/">
     <img src="https://github.com/CodingCookbook/CodingCookbook/blob/main/File/RPC.png" width="350">
   </a>
 </div>
 
 <div align="center">
   <!-- 第四行 -->
-  <a href="https://github.com/CodingCookbook/ComputerNetwork">
+  <a href="https://lichuachua.cn/tag/Computer-Network/">
     <img src="https://github.com/CodingCookbook/CodingCookbook/blob/main/File/ComputerNetwork.png" width="350">
   </a>
 
